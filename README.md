@@ -1,4 +1,5 @@
-Learning in NEU(China), A CS Student, aim to conbime *coding* and *finance*.
+B.Eng at Northeastern University, M.S Candidate at Digital Financial Technology at National University of Singapore.
+A CS Student, love `data science` and `finance`.
 
 <!---
 Revive-dontwanttocode/Revive-dontwanttocode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
