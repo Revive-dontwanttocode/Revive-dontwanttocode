@@ -1,4 +1,4 @@
-B.Eng at Northeastern University, M.S Candidate at Digital Financial Technology at National University of Singapore.
+B.Eng at Northeastern University, candidate of Master of Computing Programme at National University of Singapore.
 
 My interest is `data science` and `finance`.
 
