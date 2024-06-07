@@ -1,4 +1,4 @@
-B.Eng at Northeastern University, candidate of Master of Computing Programme at National University of Singapore.
+B.Eng at Northeastern University, candidate of Master of Science in Data Science Programme at Nanyang Technological University.
 
 My interest is `data science` and `finance`.
 
