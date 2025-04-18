@@ -1,4 +1,4 @@
-M.S. in Data Science @ Nanyang Technological Univ. 24'
+M.S. in Data Science @ Nanyang Technological Univ.
 
 My interest is `data science` and `finance analysis`.
 
