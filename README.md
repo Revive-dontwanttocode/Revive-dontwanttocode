@@ -1,4 +1,4 @@
-M.S. in Data Science @ Nanyang Technological Univ.
+Ph.D. Student in Computer Science and Data Science @ CCDS, Nanyang Technological Univ.
 
 My interest is `data science` and `finance analysis`.
 
